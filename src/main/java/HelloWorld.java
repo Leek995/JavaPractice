@@ -15,6 +15,12 @@ public class HelloWorld {
         // double backlashes gives one backlash
         System.out.println("C:\\Users\\bob");
 
+        // known as calling or invoking a method
+        hazelnut();
         // main method runs all statements above then terminates before reaches last bracket in main method
+    }
+    public static void hazelnut(){
+        System.out.println("Tree");
+        System.out.println("Grass");
     }
 }
