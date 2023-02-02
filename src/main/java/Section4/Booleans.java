@@ -2,6 +2,7 @@ package Section4;
 
 public class Booleans {
     public static void main(String[] args){
+        // literals are data that's hard coded
         int a = 27;
         double b = 14.27;
         boolean c = false;
