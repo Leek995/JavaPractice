@@ -23,8 +23,14 @@ public class Challenge1 {
         // Exercise 3
         System.out.println("The");
         System.out.println("\tCake");
-        System.out.println(" Is\t\tA");
+        System.out.println("Is\t\tA");
         System.out.println("\tLie.");
+
+        System.out.println("\n\nThe");
+        System.out.println("\tCake");
+        System.out.print("Is");
+        System.out.println("\t\tA");
+        System.out.print("\tLie.");
     }
 
 
