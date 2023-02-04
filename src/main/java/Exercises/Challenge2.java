@@ -4,7 +4,6 @@ import java.util.Scanner;
 
 public class Challenge2 {
     public static void main(String[] args){
-
         Scanner scanner = new Scanner(System.in);
         System.out.println("What is your age?");
         int userInputAge = scanner.nextInt();
