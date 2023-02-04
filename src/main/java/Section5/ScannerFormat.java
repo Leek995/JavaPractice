@@ -5,8 +5,9 @@ import java.util.Scanner;
 public class ScannerFormat {
     public static void main(String[] args){
         Scanner sc = new Scanner(System.in);
-
+        // floating point arithmetic  produces 1.7999998
         System.out.println(4.5 - 2.7);
+        // formats to 1.800000
         System.out.format("when formatted: %.1f\n", 4.5-2.7);
         //format works similar to print, but allows you to format output
         // format doesn't add new line
